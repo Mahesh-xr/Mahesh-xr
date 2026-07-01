@@ -16,7 +16,7 @@ I always look forward to **learning new technologies** and **contributing to imp
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://reddit.com/user/Mahesh-xr)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/id.mahxsh)
 
-##💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
