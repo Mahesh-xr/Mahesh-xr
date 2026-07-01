@@ -1,7 +1,7 @@
 # 💫 About Me:
-I am **Maheshkumar K**, currently pursuing my **Final Year in Computer Science Engineering** at **Rajalakshmi Institute of Technology**, with a love for developing **scalable** and **user-centric applications**. My hobbies include converting the ideas I have into tangible software using the latest **web** and **mobile technologies**.<br><br>
+I am **Maheshkumar K**, currently pursuing my **Final Year in Computer Science Engineering** at **Rajalakshmi Institute of Technology**, with a love for developing **scalable** and **user-centric applications**. My hobbies include converting the ideas I have into tangible software using the latest **web** and **mobile technologies**.<br>
 
-Some of my areas of interest include **Full Stack Development**, **Backend Development**, and **Mobile Application Development**. I have working experience in technologies like **React**, **NextJS**, **NodeJS**, **ExpressJS**, **Flask**, **Flutter**, **Firebase**, **PostgreSQL**, and **MongoDB**.<br><br>
+Some of my areas of interest include **Full Stack Development**, **Backend Development**, and **Mobile Application Development**. I have working experience in technologies like **React**, **NextJS**, **NodeJS**, **ExpressJS**, **Flask**, **Flutter**, **Firebase**, **PostgreSQL**, and **MongoDB**.<br>
 
 During my internships, I was involved in working on **production-level applications**, where I developed the **backend**, implemented **real-time features**, and worked in **Agile teams** using **Git**. Additionally, I am fascinated with **AI-driven applications** and have incorporated **LLMs** in my projects.<br><br>
 
