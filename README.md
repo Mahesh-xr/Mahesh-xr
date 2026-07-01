@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 About Me
+
 I am **Maheshkumar K**, currently pursuing my **Final Year in Computer Science Engineering** at **Rajalakshmi Institute of Technology**, with a love for developing **scalable** and **user-centric applications**. My hobbies include converting the ideas I have into tangible software using the latest **web** and **mobile technologies**.<br>
 
 Some of my areas of interest include **Full Stack Development**, **Backend Development**, and **Mobile Application Development**. I have working experience in technologies like **React**, **NextJS**, **NodeJS**, **ExpressJS**, **Flask**, **Flutter**, **Firebase**, **PostgreSQL**, and **MongoDB**.<br>
@@ -7,18 +8,28 @@ During my internships, I was involved in working on **production-level applicati
 
 I always look forward to **learning new technologies** and **contributing to impactful projects**.
 
+---
 
+# 🌐 Socials
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshcsedev/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahesh.572xr@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mahesh.572xr)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://reddit.com/user/Mahesh-xr)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/id.mahxsh)
 
-## 💻 Tech Stack:
+---
+
+# 💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/BOX18X5XXC/)
+
+---
+
+# 💻 Tech Stack
 
 ### 🎨 Frontend
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,6 +40,7 @@ I always look forward to **learning new technologies** and **contributing to imp
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -36,29 +48,108 @@ I always look forward to **learning new technologies** and **contributing to imp
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
 ### 📱 Mobile App Development
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ### 💻 Programming Languages
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### ☁️ Deployment & Cloud
+
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ### 🛠️ Tools & Version Control
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mahesh-xr&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mahesh-xr&theme=dark&hide_border=false)<br/>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌟 Socially – Social Media Platform
+
+A scalable social media platform inspired by Twitter.
+
+**Tech Stack:** React • Next.js • PostgreSQL • Clerk • Shadcn UI
+
+- 🔐 Secure authentication
+- 📝 Create and share posts
+- 🖼️ Image uploads
+- ⚡ Responsive UI
+
+🔗 **Repository:** https://github.com/Mahesh-xr/Socially
+
+---
+
+## 🤖 Workast – Zoho Cliq Integration (Cliqtrix)
+
+A Zoho Cliq extension integrating Workast task management with AI-powered task creation.
+
+**Tech Stack:** Deluge • Zoho Cliq API • Workast API • Google Gemini AI
+
+- 🤖 AI-powered task creation using LLMs
+- 🔄 Real-time synchronization
+- 📌 Channel–Space Mapping
+- ⚡ REST API Integration
+
+🔗 **Repository:** https://github.com/Mahesh-xr/Workast
+
+---
+
+## 🎌 Animix – Anime Information Web Application
+
+A responsive web application for discovering anime information.
+
+**Tech Stack:** Node.js • Express.js • EJS • JavaScript • Jikan API
+
+- 🔍 Search anime
+- 📖 Detailed information
+- 📱 Responsive interface
+- ⚡ Optimized API requests
+
+🔗 **Repository:** https://github.com/Mahesh-xr/Animix-web-application
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=Mahesh-xr&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=Mahesh-xr&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mahesh-xr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Mahesh-xr&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+# 📈 Contribution Graph
+
+[![Mahesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-xr&theme=react-dark)](https://github.com/Mahesh-xr)
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Mahesh-xr&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+# 💬 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
